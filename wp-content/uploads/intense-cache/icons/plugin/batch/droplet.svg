@@ -1,0 +1,7 @@
+<svg id="svg-source" height="0" version="1.1" 
+  xmlns="http://www.w3.org/2000/svg" style="position:absolute; margin-left: -100%" 
+  xmlns:xlink="http://www.w3.org/1999/xlink"><g xmlns="http://www.w3.org/2000/svg" id="droplet">
+    <path id="droplet" d="M16,32c-5.523,0-10-4.476-10-10C6,16.476,16,0,16,0s10,16.476,10,22C26,27.524,21.524,32,16,32
+	z M21.888,21.102C21.372,23.888,18.937,26,16,26c-2.936,0-5.372-2.112-5.889-4.898C10.044,21.437,10,21.746,10,22
+	c0,3.313,2.686,6,6,6c3.313,0,6-2.687,6-6C22,21.746,21.956,21.437,21.888,21.102z"/>
+  </g></svg>

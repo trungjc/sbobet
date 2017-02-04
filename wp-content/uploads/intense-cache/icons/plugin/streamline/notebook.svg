@@ -1,0 +1,45 @@
+<svg id="svg-source" height="0" version="1.1" 
+  xmlns="http://www.w3.org/2000/svg" style="position:absolute; margin-left: -100%" 
+  xmlns:xlink="http://www.w3.org/1999/xlink"><g xmlns="http://www.w3.org/2000/svg" id="notebook">
+    <g id="Expanded">
+      <g>
+        <g>
+          <path d="M20.333,12H11V5.333h9.333V12z M12.334,10.667H19v-4h-6.666V10.667z"/>
+        </g>
+        <g>
+          <path d="M27,32H3V0h24V32z M4.334,30.667h21.333V1.333H4.334V30.667z"/>
+        </g>
+        <g>
+          <rect x="26.333" y="8.667" width="3.334" height="1.333"/>
+        </g>
+        <g>
+          <rect x="26.333" y="14" width="3.334" height="1.333"/>
+        </g>
+        <g>
+          <rect x="26.333" y="19.333" width="3.334" height="1.334"/>
+        </g>
+        <g>
+          <path d="M27.667,26h-1.334v-1.333h1.334c0.735,0,1.333-0.598,1.333-1.334V6c0-0.735-0.598-1.333-1.333-1.333
+				h-1.334V3.333h1.334c1.471,0,2.666,1.196,2.666,2.667v17.333C30.333,24.804,29.138,26,27.667,26z"/>
+        </g>
+        <g>
+          <rect x="1.667" y="5.333" width="4" height="1.333"/>
+        </g>
+        <g>
+          <rect x="1.667" y="9.333" width="4" height="1.333"/>
+        </g>
+        <g>
+          <rect x="1.667" y="13.333" width="4" height="1.333"/>
+        </g>
+        <g>
+          <rect x="1.667" y="17.333" width="4" height="1.334"/>
+        </g>
+        <g>
+          <rect x="1.667" y="21.333" width="4" height="1.334"/>
+        </g>
+        <g>
+          <rect x="1.667" y="25.333" width="4" height="1.334"/>
+        </g>
+      </g>
+    </g>
+  </g></svg>

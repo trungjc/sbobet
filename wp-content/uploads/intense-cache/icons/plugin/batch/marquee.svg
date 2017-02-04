@@ -1,0 +1,7 @@
+<svg id="svg-source" height="0" version="1.1" 
+  xmlns="http://www.w3.org/2000/svg" style="position:absolute; margin-left: -100%" 
+  xmlns:xlink="http://www.w3.org/1999/xlink"><g xmlns="http://www.w3.org/2000/svg" id="marquee">
+    <path id="marquee" d="M4,10v4H0v-4H4z M4,18v4H0v-4H4z M4,26c0,1.106,0.896,2,2,2v4c-3.314,0-6-2.688-6-6H4z M10,4V0
+	h4v4H10z M28,6c0-1.104-0.894-2-2-2V0c3.312,0,6,2.686,6,6H28z M0,6c0-3.314,2.686-6,6-6v4C4.896,4,4,4.896,4,6H0z M28,22v-4h4v4H28
+	z M28,14v-4h4v4H28z M26,28c1.106,0,2-0.894,2-2h4c0,3.312-2.688,6-6,6V28z M18,4V0h4v4H18z M10,32v-4h4v4H10z M18,32v-4h4v4H18z"/>
+  </g></svg>

@@ -1,0 +1,7 @@
+<svg id="svg-source" height="0" version="1.1" 
+  xmlns="http://www.w3.org/2000/svg" style="position:absolute; margin-left: -100%" 
+  xmlns:xlink="http://www.w3.org/1999/xlink"><g xmlns="http://www.w3.org/2000/svg" id="wifi-low">
+    <path id="wifi-low" d="M32,6.788l-6.4,6.4c-5.301-5.304-13.896-5.304-19.199,0L0,6.788
+	C8.834-2.05,23.164-2.05,32,6.788z M16,13.736c4.996,0,9.051,4.055,9.051,9.053c0,4.997-4.055,9.052-9.051,9.052
+	c-4.998,0-9.053-4.055-9.053-9.052C6.947,17.791,11.002,13.736,16,13.736z"/>
+  </g></svg>

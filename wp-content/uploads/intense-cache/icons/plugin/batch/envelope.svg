@@ -1,0 +1,7 @@
+<svg id="svg-source" height="0" version="1.1" 
+  xmlns="http://www.w3.org/2000/svg" style="position:absolute; margin-left: -100%" 
+  xmlns:xlink="http://www.w3.org/1999/xlink"><g xmlns="http://www.w3.org/2000/svg" id="envelope">
+    <path id="envelope" d="M26,28H6c-3.314,0-6-2.687-6-6V10c0-3.314,2.686-6,6-6h20c3.312,0,6,2.686,6,6v12
+	C32,25.313,29.312,28,26,28z M6,8C5.51,8,5.08,8.196,4.732,8.488L16,16l11.27-7.512C26.922,8.196,26.488,8,26,8H6z M28,12l-12,8
+	L4,12v8l6-2l-5.414,5.414C4.947,23.776,5.447,24,6,24h20c0.552,0,1.052-0.224,1.414-0.586L22,18l6,2V12z"/>
+  </g></svg>

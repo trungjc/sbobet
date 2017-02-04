@@ -1,0 +1,9 @@
+<svg id="svg-source" height="0" version="1.1" 
+  xmlns="http://www.w3.org/2000/svg" style="position:absolute; margin-left: -100%" 
+  xmlns:xlink="http://www.w3.org/1999/xlink"><g xmlns="http://www.w3.org/2000/svg" id="calendar">
+    <path id="calendar" d="M26,32H6c-3.313,0-6-2.688-6-6V6c0-2.608,1.676-4.806,4-5.632V3c0,1.657,1.344,3,3,3
+	s3-1.343,3-3V0h12v3c0,1.657,1.344,3,3,3s3-1.343,3-3V0.368C30.324,1.194,32,3.392,32,6v20C32,29.312,29.313,32,26,32z M28,10H4v16
+	c0,1.106,0.894,2,2,2h20c1.106,0,2-0.894,2-2V10z M20,20h4v4h-4V20z M20,14h4v4h-4V14z M14,20h4v4h-4V20z M14,14h4v4h-4V14z M8,20h4
+	v4H8V20z M8,14h4v4H8V14z M25,4c-0.552,0-1-0.448-1-1V0h2v3C26,3.552,25.552,4,25,4z M7,4C6.448,4,6,3.552,6,3V0h2v3
+	C8,3.552,7.552,4,7,4z"/>
+  </g></svg>

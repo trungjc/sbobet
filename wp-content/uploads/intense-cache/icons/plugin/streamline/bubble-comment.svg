@@ -1,0 +1,22 @@
+<svg id="svg-source" height="0" version="1.1" 
+  xmlns="http://www.w3.org/2000/svg" style="position:absolute; margin-left: -100%" 
+  xmlns:xlink="http://www.w3.org/1999/xlink"><g xmlns="http://www.w3.org/2000/svg" id="bubble-comment">
+    <g id="Expanded">
+      <g>
+        <g>
+          <path d="M4,29.805v-6.276H2c-1.103,0-2-0.896-2-2V4.195c0-1.103,0.897-2,2-2h28c1.103,0,2,0.897,2,2v17.333
+				c0,1.104-0.897,2-2,2H10.276L4,29.805z M2,3.529c-0.368,0-0.667,0.299-0.667,0.667v17.333c0,0.368,0.299,0.667,0.667,0.667h3.333
+				v4.391l4.391-4.391H30c0.368,0,0.667-0.299,0.667-0.667V4.195c0-0.368-0.299-0.667-0.667-0.667H2z"/>
+        </g>
+        <g>
+          <circle cx="10.667" cy="12.862" r="1.333"/>
+        </g>
+        <g>
+          <circle cx="21.333" cy="12.862" r="1.333"/>
+        </g>
+        <g>
+          <circle cx="16" cy="12.862" r="1.333"/>
+        </g>
+      </g>
+    </g>
+  </g></svg>

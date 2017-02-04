@@ -1,0 +1,7 @@
+<svg id="svg-source" height="0" version="1.1" 
+  xmlns="http://www.w3.org/2000/svg" style="position:absolute; margin-left: -100%" 
+  xmlns:xlink="http://www.w3.org/1999/xlink"><g xmlns="http://www.w3.org/2000/svg" id="commit">
+    <path id="commit" d="M30,18h-8.368c-0.826,2.326-3.021,4-5.632,4c-2.608,0-4.806-1.674-5.632-4H2
+	c-1.104,0-2-0.894-2-2s0.896-2,2-2h8.368c0.826-2.324,3.023-4,5.632-4c2.61,0,4.806,1.676,5.632,4H30c1.106,0,2,0.894,2,2
+	S31.106,18,30,18z M16,14c-1.104,0-2,0.894-2,2s0.896,2,2,2c1.106,0,2-0.894,2-2S17.106,14,16,14z"/>
+  </g></svg>

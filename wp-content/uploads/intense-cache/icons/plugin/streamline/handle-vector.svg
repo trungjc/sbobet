@@ -1,0 +1,32 @@
+<svg id="svg-source" height="0" version="1.1" 
+  xmlns="http://www.w3.org/2000/svg" style="position:absolute; margin-left: -100%" 
+  xmlns:xlink="http://www.w3.org/1999/xlink"><g xmlns="http://www.w3.org/2000/svg" id="handle-vector">
+    <g id="Expanded">
+      <g>
+        <g>
+          <rect x="28" y="6" width="1.333" height="20"/>
+        </g>
+        <g>
+          <rect x="6" y="2.667" width="20" height="1.333"/>
+        </g>
+        <g>
+          <rect x="3.333" y="6" width="1.333" height="20"/>
+        </g>
+        <g>
+          <rect x="6" y="28" width="20" height="1.333"/>
+        </g>
+        <g>
+          <path d="M6.667,6.667H0V0h6.667V6.667z M1.333,5.333h4v-4h-4V5.333z"/>
+        </g>
+        <g>
+          <path d="M32,6.667h-6.667V0H32V6.667z M26.667,5.333h4v-4h-4V5.333z"/>
+        </g>
+        <g>
+          <path d="M6.667,32H0v-6.667h6.667V32z M1.333,30.667h4v-4h-4V30.667z"/>
+        </g>
+        <g>
+          <path d="M32,32h-6.667v-6.667H32V32z M26.667,30.667h4v-4h-4V30.667z"/>
+        </g>
+      </g>
+    </g>
+  </g></svg>

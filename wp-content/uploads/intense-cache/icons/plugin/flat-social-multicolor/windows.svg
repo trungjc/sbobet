@@ -1,0 +1,10 @@
+<svg id="svg-source" height="0" version="1.1" 
+  xmlns="http://www.w3.org/2000/svg" style="position:absolute; margin-left: -100%" 
+  xmlns:xlink="http://www.w3.org/1999/xlink"><g xmlns="http://www.w3.org/2000/svg" id="windows">
+    <g>
+      <path fill="#2BAAE2" d="M16,32c8.837,0,16-7.164,16-16S24.837,0,16,0C7.162,0,0,7.164,0,16S7.162,32,16,32"/>
+      <path id="path13" fill="#FFFFFF" d="M8.592,11.055
+		l6.05-0.824l0.003,5.836l-6.047,0.035L8.592,11.055z M14.64,16.739l0.005,5.841l-6.047-0.832l0-5.049L14.64,16.739z M15.373,10.123
+		l8.022-1.171v7.04l-8.022,0.064V10.123z M23.397,16.794l-0.002,7.009l-8.022-1.133l-0.011-5.889L23.397,16.794z"/>
+    </g>
+  </g></svg>

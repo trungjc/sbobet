@@ -1,0 +1,8 @@
+<svg id="svg-source" height="0" version="1.1" 
+  xmlns="http://www.w3.org/2000/svg" style="position:absolute; margin-left: -100%" 
+  xmlns:xlink="http://www.w3.org/1999/xlink"><g xmlns="http://www.w3.org/2000/svg" id="stopwatch">
+    <path id="stopwatch" d="M28,20c0,6.626-5.374,12-12,12S4,26.626,4,20S9.374,8,16,8S28,13.374,28,20z M16,12
+	c-4.418,0-8,3.582-8,8s3.582,8,8,8s8-3.582,8-8S20.418,12,16,12z M16,22c-1.104,0-2-0.894-2-2s2-6,2-6s2,4.894,2,6S17.106,22,16,22z
+	 M12,4c0-2.208,1.792-4,4-4s4,1.792,4,4s-1.792,4-4,4S12,6.208,12,4z M16,6c1.106,0,2-0.894,2-2s-0.894-2-2-2c-1.104,0-2,0.894-2,2
+	S14.896,6,16,6z"/>
+  </g></svg>

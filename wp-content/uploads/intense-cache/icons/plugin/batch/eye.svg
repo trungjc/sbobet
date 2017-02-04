@@ -1,0 +1,7 @@
+<svg id="svg-source" height="0" version="1.1" 
+  xmlns="http://www.w3.org/2000/svg" style="position:absolute; margin-left: -100%" 
+  xmlns:xlink="http://www.w3.org/1999/xlink"><g xmlns="http://www.w3.org/2000/svg" id="eye">
+    <path id="eye" d="M16,26C4,26,0,16,0,16S4,6,16,6s16,10,16,10S28,26,16,26z M16,10c-3.314,0-6,2.686-6,6
+	c0,3.313,2.686,6,6,6c3.313,0,6-2.687,6-6C22,12.686,19.313,10,16,10z M16,20c-2.208,0-4-1.792-4-4h4l-2.828-2.828
+	C13.895,12.448,14.895,12,16,12c2.208,0,4,1.792,4,4S18.208,20,16,20z"/>
+  </g></svg>

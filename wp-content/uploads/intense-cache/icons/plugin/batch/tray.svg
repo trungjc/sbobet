@@ -1,0 +1,6 @@
+<svg id="svg-source" height="0" version="1.1" 
+  xmlns="http://www.w3.org/2000/svg" style="position:absolute; margin-left: -100%" 
+  xmlns:xlink="http://www.w3.org/1999/xlink"><g xmlns="http://www.w3.org/2000/svg" id="tray">
+    <path id="tray" d="M26,26H6c-3.314,0-6-2.687-6-6v-6l8-8h16l8,8v6C32,23.313,29.313,26,26,26z M22.344,10H9.658L4,16
+	h6v2c0,1.106,0.896,2,2,2h8c1.106,0,2-0.894,2-2v-2h6L22.344,10z"/>
+  </g></svg>

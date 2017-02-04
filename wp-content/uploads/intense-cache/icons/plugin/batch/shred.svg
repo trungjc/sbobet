@@ -1,0 +1,7 @@
+<svg id="svg-source" height="0" version="1.1" 
+  xmlns="http://www.w3.org/2000/svg" style="position:absolute; margin-left: -100%" 
+  xmlns:xlink="http://www.w3.org/1999/xlink"><g xmlns="http://www.w3.org/2000/svg" id="shred">
+    <path id="shred" d="M30,24h-2v-2c0-2.208-1.792-4-4-4H8c-2.208,0-4,1.792-4,4v2H2c-1.104,0-2-0.894-2-2V10
+	c0-1.104,0.896-2,2-2h4V0h20v8h4c1.106,0,2,0.896,2,2v12C32,23.106,31.106,24,30,24z M24,2H8v6h16V2z M24,12h-2v2h2V12z M28,12h-2v2
+	h2V12z M6,32v-8l0,0l0,0v-2c0-1.106,0.896-2,2-2h16c1.106,0,2,0.894,2,2v2h-2v4h-2v-4h-2v8h-2v-8h-2v6h-2v-6h-2v4h-2v-4H8v8H6z"/>
+  </g></svg>

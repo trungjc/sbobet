@@ -1,0 +1,5 @@
+<svg id="svg-source" height="0" version="1.1" 
+  xmlns="http://www.w3.org/2000/svg" style="position:absolute; margin-left: -100%" 
+  xmlns:xlink="http://www.w3.org/1999/xlink"><g xmlns="http://www.w3.org/2000/svg" id="bullet">
+    <path id="bullet" d="M16,32C7.167,32,0,24.833,0,16S7.167,0,16,0s16,7.167,16,16S24.833,32,16,32z"/>
+  </g></svg>

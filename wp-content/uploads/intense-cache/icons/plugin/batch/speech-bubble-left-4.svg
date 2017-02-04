@@ -1,0 +1,8 @@
+<svg id="svg-source" height="0" version="1.1" 
+  xmlns="http://www.w3.org/2000/svg" style="position:absolute; margin-left: -100%" 
+  xmlns:xlink="http://www.w3.org/1999/xlink"><g xmlns="http://www.w3.org/2000/svg" id="speech-bubble-left-4">
+    <path id="speech-bubble-left-4" d="M28,21.632V10c0-3.314-2.687-6-6-6H6.367C7.193,1.674,9.391,0,12,0h14
+	c3.313,0,6,2.686,6,6v10C32,18.61,30.324,20.806,28,21.632z M26,12v8c0,3.312-2.687,6-6,6h-6l-4,6l-4-6c-3.314,0-6-2.688-6-6v-8
+	c0-3.314,2.686-6,6-6h14C23.313,6,26,8.686,26,12z M4,12v8c0,1.106,0.895,2,2,2h1.334L10,26l2.666-4H20c1.106,0,2-0.894,2-2v-8
+	c0-1.104-0.894-2-2-2H6C4.895,10,4,10.896,4,12z"/>
+  </g></svg>

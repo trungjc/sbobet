@@ -1,0 +1,9 @@
+<svg id="svg-source" height="0" version="1.1" 
+  xmlns="http://www.w3.org/2000/svg" style="position:absolute; margin-left: -100%" 
+  xmlns:xlink="http://www.w3.org/1999/xlink"><g xmlns="http://www.w3.org/2000/svg" id="youtube">
+    <g>
+      <path fill="#CD3434" d="M16,32c8.836,0,16-7.164,16-16C32,7.164,24.836,0,16,0C7.163,0,0,7.164,0,16C0,24.836,7.163,32,16,32"/>
+      <path fill="#FFFFFF" d="M19.106,16.008l-5.238,3.077v-6.154L19.106,16.008z M24,18.86V13.14c0,0,0-2.757-2.758-2.757H10.756
+		c0,0-2.756,0-2.756,2.757v5.721c0,0,0,2.757,2.756,2.757h10.486C21.242,21.617,24,21.617,24,18.86"/>
+    </g>
+  </g></svg>

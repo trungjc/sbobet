@@ -1,0 +1,13 @@
+<svg id="svg-source" height="0" version="1.1" 
+  xmlns="http://www.w3.org/2000/svg" style="position:absolute; margin-left: -100%" 
+  xmlns:xlink="http://www.w3.org/1999/xlink"><g xmlns="http://www.w3.org/2000/svg" id="dropbox">
+    <g>
+      <path fill="#2864AE" d="M16,32c8.837,0,16-7.164,16-16c0-8.836-7.163-16-16-16C7.162,0,0,7.164,0,16C0,24.836,7.162,32,16,32"/>
+      <polygon fill="#FFFFFF" points="8,16.843 12.707,19.915 16,17.169 11.254,14.239 	"/>
+      <polygon fill="#FFFFFF" points="12.707,8.563 8,11.633 11.254,14.239 16,11.31 	"/>
+      <polygon fill="#FFFFFF" points="24,11.633 19.293,8.563 16,11.31 20.746,14.239 	"/>
+      <polygon fill="#FFFFFF" points="16,17.169 19.293,19.915 24,16.843 20.746,14.239 	"/>
+      <polygon fill="#FFFFFF" points="16.01,17.759 12.707,20.498 11.293,19.576 11.293,20.61 16.01,23.437 20.727,20.61 20.727,19.576 
+		19.313,20.498 	"/>
+    </g>
+  </g></svg>

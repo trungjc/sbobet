@@ -1,0 +1,8 @@
+<svg id="svg-source" height="0" version="1.1" 
+  xmlns="http://www.w3.org/2000/svg" style="position:absolute; margin-left: -100%" 
+  xmlns:xlink="http://www.w3.org/1999/xlink"><g xmlns="http://www.w3.org/2000/svg" id="distribute-left-edges">
+    <path id="distribute-left-edges" d="M26,32H6c-3.314,0-6-2.687-6-6V6c0-3.314,2.686-6,6-6h20c3.313,0,6,2.686,6,6v20
+	C32,29.313,29.313,32,26,32z M28,6c0-1.106-0.894-2-2-2H6C4.895,4,4,4.894,4,6v20c0,1.106,0.895,2,2,2h20c1.106,0,2-0.894,2-2V6z
+	 M22,20h-2l0,0v6h-2v-8v-4V6h2v6l0,0h2c1.106,0,2,0.896,2,2v4C24,19.106,23.106,20,22,20z M22,14h-2v4h2V14z M12,24h-2v2H8v-4V10V6
+	h2v2h2c1.105,0,2,0.894,2,2v12C14,23.106,13.105,24,12,24z M12,10h-2v12h2V10z"/>
+  </g></svg>

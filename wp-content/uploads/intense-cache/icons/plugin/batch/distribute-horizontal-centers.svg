@@ -1,0 +1,9 @@
+<svg id="svg-source" height="0" version="1.1" 
+  xmlns="http://www.w3.org/2000/svg" style="position:absolute; margin-left: -100%" 
+  xmlns:xlink="http://www.w3.org/1999/xlink"><g xmlns="http://www.w3.org/2000/svg" id="distribute-horizontal-centers">
+    <path id="distribute-horizontal-centers" d="M26,32H6c-3.314,0-6-2.687-6-6V6c0-3.314,2.686-6,6-6h20
+	c3.313,0,6,2.686,6,6v20C32,29.313,29.313,32,26,32z M28,6c0-1.106-0.894-2-2-2H6C4.895,4,4,4.894,4,6v20c0,1.106,0.895,2,2,2h20
+	c1.106,0,2-0.894,2-2V6z M22,24v2h-2v-2c-1.106,0-2-0.894-2-2V10c0-1.106,0.894-2,2-2V6h2v2c1.106,0,2,0.894,2,2v12
+	C24,23.106,23.106,24,22,24z M22,10h-2v12h2V10z M12,20v6h-2v-6c-1.105,0-2-0.894-2-2v-4c0-1.104,0.895-2,2-2V6h2v6
+	c1.105,0,2,0.896,2,2v4C14,19.106,13.105,20,12,20z M12,14h-2v4h2V14z"/>
+  </g></svg>

@@ -1,0 +1,6 @@
+<svg id="svg-source" height="0" version="1.1" 
+  xmlns="http://www.w3.org/2000/svg" style="position:absolute; margin-left: -100%" 
+  xmlns:xlink="http://www.w3.org/1999/xlink"><g xmlns="http://www.w3.org/2000/svg" id="flag">
+    <path id="flag" d="M32,22H16v-4H6V2h14v4h12l-4,8L32,22z M16,6h-6v8h6V6z M25.528,10H20v8h5.528l-2-4L25.528,10z
+	 M2,32c-1.104,0-2-0.894-2-2V2c0-1.106,0.896-2,2-2c1.105,0,2,0.894,2,2v28C4,31.106,3.105,32,2,32z"/>
+  </g></svg>

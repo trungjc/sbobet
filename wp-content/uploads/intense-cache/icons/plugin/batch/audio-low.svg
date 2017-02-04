@@ -1,0 +1,6 @@
+<svg id="svg-source" height="0" version="1.1" 
+  xmlns="http://www.w3.org/2000/svg" style="position:absolute; margin-left: -100%" 
+  xmlns:xlink="http://www.w3.org/1999/xlink"><g xmlns="http://www.w3.org/2000/svg" id="audio-low">
+    <path id="audio-low" d="M13,24c-3.313,0-6-2.688-6-6v-4c0-3.313,2.687-6,6-6h2l10-8v32l-10-8H13z M21,24v-6v-4V8
+	l-4,4h-4c-1.106,0-2,0.896-2,2v4c0,1.106,0.894,2,2,2h4L21,24z"/>
+  </g></svg>

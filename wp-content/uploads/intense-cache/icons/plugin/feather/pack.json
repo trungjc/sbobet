@@ -1,0 +1,11 @@
+{
+    "title": "Feather",
+    "name": "feather",
+    "author": "Cole Bemis",
+    "license": {
+        "type": "MIT",
+        "url": "http:\/\/opensource.org\/licenses\/MIT"
+    },
+    "website": "http:\/\/colebemis.com",
+    "source": "http:\/\/icomoon.io"
+}

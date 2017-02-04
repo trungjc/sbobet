@@ -1,0 +1,7 @@
+<svg id="svg-source" height="0" version="1.1" 
+  xmlns="http://www.w3.org/2000/svg" style="position:absolute; margin-left: -100%" 
+  xmlns:xlink="http://www.w3.org/1999/xlink"><g xmlns="http://www.w3.org/2000/svg" id="folder">
+    <path id="folder" d="M26,32H6c-3.314,0-6-2.687-6-6V6c0-3.314,2.686-6,6-6h8c2.608,0,4.806,1.676,5.632,4H26
+	c3.312,0,6,2.686,6,6v16C32,29.313,29.312,32,26,32z M28,10c0-1.106-0.894-2-2-2H16V6c0-1.106-0.896-2-2-2H6C4.896,4,4,4.894,4,6v20
+	c0,1.106,0.896,2,2,2h20c1.106,0,2-0.894,2-2V10z"/>
+  </g></svg>

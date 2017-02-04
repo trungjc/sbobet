@@ -1,0 +1,8 @@
+<svg id="svg-source" height="0" version="1.1" 
+  xmlns="http://www.w3.org/2000/svg" style="position:absolute; margin-left: -100%" 
+  xmlns:xlink="http://www.w3.org/1999/xlink"><g xmlns="http://www.w3.org/2000/svg" id="credit-card-2">
+    <path id="credit-card-2" d="M30,4H2C0.896,4,0,4.896,0,6v20c0,1.106,0.896,2,2,2h28c1.106,0,2-0.894,2-2V6
+	C32,4.896,31.106,4,30,4z M20,14h4v4h-4V14z M14,14h4v4h-4V14z M20,20v2h-2v-2H20z M14,20h2v2h-2V20z M2,8c0-1.104,0.896-2,2-2h4
+	c1.104,0,2,0.896,2,2v2c0,1.106-0.896,2-2,2H4c-1.104,0-2-0.894-2-2V8z M12,14v4H8v-4H12z M6,26H2v-2h4V26z M6,18H2v-4h4V18z M22,26
+	H8v-2h14V26z M26,22h-2v-2h2V22z M30,22h-2v-2h2V22z M30,18h-4v-4h4V18z"/>
+  </g></svg>

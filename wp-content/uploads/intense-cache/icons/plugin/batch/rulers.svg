@@ -1,0 +1,6 @@
+<svg id="svg-source" height="0" version="1.1" 
+  xmlns="http://www.w3.org/2000/svg" style="position:absolute; margin-left: -100%" 
+  xmlns:xlink="http://www.w3.org/1999/xlink"><g xmlns="http://www.w3.org/2000/svg" id="rulers">
+    <path id="rulers" d="M30,32H8v-2h22V8h2v22v2H30z M30,6h-2V4h-2v2h-2V2h-2v4h-2V4h-2v2h-2V4h-2v2h-2V4h-2v2H8V0h24v4
+	h-2V6z M4,32H0V8h6v2H4v2h2v2H4v2h2v2H4v2h2v2H2v2h4v2H4v2h2v2H4V32z M0,0h6v6H0V0z"/>
+  </g></svg>

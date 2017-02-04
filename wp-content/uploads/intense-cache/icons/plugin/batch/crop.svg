@@ -1,0 +1,7 @@
+<svg id="svg-source" height="0" version="1.1" 
+  xmlns="http://www.w3.org/2000/svg" style="position:absolute; margin-left: -100%" 
+  xmlns:xlink="http://www.w3.org/1999/xlink"><g xmlns="http://www.w3.org/2000/svg" id="crop">
+    <path id="crop" d="M28,32v-2h2v-2h2v4H28z M30,2h-2V0h4v4h-2V2z M28,28H4V4h24V28z M24,8H8v16h16V8z M12,10
+	c1.105,0,2,0.894,2,2s-0.895,2-2,2s-2-0.894-2-2S10.895,10,12,10z M12.662,22H10v-2.994C10.896,20.082,11.87,21.672,12.662,22z
+	 M22,14.688V22h-8.788C15.914,21.348,19.218,11.484,22,14.688z M2,4H0V0h4v2H2V4z M2,30h2v2H0v-4h2V30z"/>
+  </g></svg>

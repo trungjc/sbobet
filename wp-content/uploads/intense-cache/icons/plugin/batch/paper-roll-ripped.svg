@@ -1,0 +1,7 @@
+<svg id="svg-source" height="0" version="1.1" 
+  xmlns="http://www.w3.org/2000/svg" style="position:absolute; margin-left: -100%" 
+  xmlns:xlink="http://www.w3.org/1999/xlink"><g xmlns="http://www.w3.org/2000/svg" id="paper-roll-ripped">
+    <path id="paper-roll-ripped" d="M32,32L32,32L32,32L32,32L32,32z M24,16v16l-4-4l-4,4l-4-4l-4,4l-4-4l-4,4l0,0l0,0V6
+	c0-3.314,2.686-6,6-6h18c4.418,0,8,3.582,8,8S28.418,16,24,16z M20,4H6C4.896,4,4,4.896,4,6v16l4,4l4-4l4,4l4-4l0,0V4z M24,4v8
+	c2.208,0,4-1.792,4-4S26.208,4,24,4z M8,16h8v2H8V16z M8,12h8v2H8V12z M8,8h8v2H8V8z"/>
+  </g></svg>

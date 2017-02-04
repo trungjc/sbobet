@@ -1,0 +1,7 @@
+<svg id="svg-source" height="0" version="1.1" 
+  xmlns="http://www.w3.org/2000/svg" style="position:absolute; margin-left: -100%" 
+  xmlns:xlink="http://www.w3.org/1999/xlink"><g xmlns="http://www.w3.org/2000/svg" id="paper-roll">
+    <path id="paper-roll" d="M24,16c-1.464,0-2.82-0.422-4-1.11V28v4h-4H4H0v-4V8c0-4.418,3.582-8,8-8h16l0,0
+	c4.418,0,8,3.582,8,8S28.418,16,24,16z M8,4C5.792,4,4,5.792,4,8l0,0v20h12V8c0-1.464,0.422-2.818,1.11-4H8z M24,4
+	c-2.208,0-4,1.792-4,4s1.792,4,4,4s4-1.792,4-4S26.208,4,24,4z M6,24h8v2H6V24z M6,18h8v2H6V18z M6,12h8v2H6V12z M6,6h8v2H6V6z"/>
+  </g></svg>

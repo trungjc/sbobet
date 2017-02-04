@@ -1,0 +1,7 @@
+<svg id="svg-source" height="0" version="1.1" 
+  xmlns="http://www.w3.org/2000/svg" style="position:absolute; margin-left: -100%" 
+  xmlns:xlink="http://www.w3.org/1999/xlink"><g xmlns="http://www.w3.org/2000/svg" id="clipboard">
+    <path id="clipboard" d="M28,32H4c-1.106,0-2-0.894-2-2V4c0-1.104,0.894-2,2-2h4v4H6v22h20V6h-2V2h4
+	c1.106,0,2,0.896,2,2v26C30,31.106,29.106,32,28,32z M8,8h2c0,1.104,0.894,2,2,2h8c1.106,0,2-0.896,2-2h2v18H8V8z M20,8h-8
+	c-1.106,0-2-0.896-2-2V2l0,0h4V0h4v2h4l0,0v4C22,7.104,21.106,8,20,8z M18,4h-4v2h4V4z"/>
+  </g></svg>
